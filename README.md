@@ -20,6 +20,7 @@ Excepted Applications:
   * Hyper
   * iTerm2
   * Terminal
+  * Alacritty
 * Virtual Machines
   * VirtualBox VMs (not the VirtualBox manager application)
 
