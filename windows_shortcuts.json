@@ -44,6 +44,7 @@
               "bundle_identifiers": [
                 "^com\\.apple\\.Terminal$",
                 "^com\\.googlecode\\.iterm2$",
+                "^com\\.jwilm\\.Alacritty$",
                 "^co\\.zeit\\.hyper$",
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                 "^com\\.microsoft\\.rdc\\.macos$"
